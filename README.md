@@ -40,15 +40,15 @@ https://fakestoreapi.com/products
 
 ### Loading
 
-![Loading](./screenshots/Loading11.png)
+![Loading](./screenshots/Loading11.jpeg)
 
 ### Success
 
-![Success](./screenshots/Success11.png)
+![Success](./screenshots/Success11.jpeg)
 
 ### Error
 
-![Error](./screenshots/Error11.png)
+![Error](./screenshots/Error11.jpeg)
 
 ---
 
